@@ -1,0 +1,3 @@
+■ Searx combines webpage results from multiple search engines.
+■ Searx provides searching by categories like Torrents, Music, Science, Technology, Social media in addition to categories found in Google like Maps, News and Videos.
+■ Searx also functions as a minimalist browser.
